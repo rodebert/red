@@ -1,0 +1,19 @@
+{
+  "name": "@spring/red",
+  "version": "0.1.0",
+  "description": "New RED Delivery",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Aycool",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.16.3",
+    "vue": "2.5.16",
+    "vue-server-renderer": "2.5.16"
+  },
+  "engines": {
+    "node": "8.11.1"
+  }
+}
